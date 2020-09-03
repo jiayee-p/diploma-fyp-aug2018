@@ -21,6 +21,6 @@ To run this project, you will need:
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 For any inquires or suggestions, you are welcome to e-mail me on: faded.kuyori@gmail.com OR
-You may contact me on LinkedIn: Jia Yee (JY) Phua (link: https://www.linkedin.com/in/jia-yee-phua-6063201b4/)
+You may contact me on LinkedIn: Jia Yee (JY) Phua (link: https://www.linkedin.com/in/jy-phua/)
 
 Thank you again for reviewing my project!
